@@ -1,10 +1,10 @@
-<h1 align="center"><b>Salut , je suis Fedi Hachani </b><img src="" width="35"></h1>
+<h1 align="center"><b>Salut , je suis Fedi Hachani </b><img src="https://media.tenor.com/H7RYeAp57eMAAAAC/hello.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenue+sur+mon+profil..!;Développeur+Full+Stack,;Passionné+par+le+Front-end+et+le+Back-end,;Toujours+en+apprentissage..!">
   </a>
-</p>
+</p> 
 
 <!-- Avatar -->
 <img title="Mon Avatar" align="left" src="assets/images/Fedi.png" width="500px" alt="hi" >
@@ -41,7 +41,3 @@ Je suis passionné par le **développement frontend et backend** 🚀.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonGithubUsername&show_icons=true&layout=compact&theme=algolia)
 ![Stats](https://github-readme-stats.vercel.app/api?username=tonGithubUsername&show_icons=true&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonGithubUsername&theme=algolia" alt="streak" /></p>
-
-
-
-
